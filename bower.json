@@ -1,0 +1,15 @@
+{
+  "name": "tlvince-semantic-release-publish-repo",
+  "homepage": "https://github.com/tlvince/tlvince-semantic-release-publish-repo",
+  "authors": [
+    "Tom Vincent <git@tlvince.com>"
+  ],
+  "description": "Reduced test case for publish-repo",
+  "main": "dist.txt",
+  "moduleType": [],
+  "keywords": [
+    "ci",
+    "test"
+  ],
+  "license": "MIT"
+}
